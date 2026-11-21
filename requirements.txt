@@ -1,0 +1,3 @@
+streamlit>=1.40
+nba_api>=1.6.0
+pandas>=2.0
